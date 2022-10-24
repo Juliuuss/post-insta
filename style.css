@@ -1,0 +1,46 @@
+body{
+    background: black;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.post{
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.titulo
+{
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.post-header{
+    display: flex;
+    margin: 10px;
+}
+
+.trespuntos{
+    margin-left: 380px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+ .html5{
+    font-size: 40px;
+    margin-top: 20px;
+ }
+
+ .post-icon{
+    margin: 10px;
+    font-size: 30px;
+ }
+
+ .parrafos{
+    margin: 10px;
+    padding-bottom: 10px;
+ }
+
+ #guardar{
+    margin-left: 330px;
+ }
